@@ -1,0 +1,138 @@
+*{
+    margin:0px;
+    padding:0px;       
+}
+#header {
+    width: 100%;
+    margin: 0 auto;
+    height:150px;
+}
+#navbar {
+    width: 1257px;
+    margin: 0 auto;
+}
+#logo{
+    float:left;
+    width:257px;
+}
+#logo img{
+    margin-top:18px;
+}
+#inner-Nav {
+    width:1000px;
+    float:left;
+}
+#nav-top{
+    width:1000px;
+    padding-left:52.9%;
+    box-sizing:border-box;
+}
+    #nav-top a {
+        display: inline-block;
+        width: 191px;
+        height: 39px;
+        background-color: #03aead;
+        line-height:39px;
+        text-align:center;
+        box-sizing:border-box;
+        font-size:15px;
+        color:#ffffff;
+        text-decoration:none;
+        border-radius:2px;
+        margin-right:10px;
+        margin-top:21px;
+    }
+        #nav-top a:nth-child(2), #nav-top a:nth-child(3) {
+            width: 121px;
+            background-color: #fe7701;
+        }
+        #nav-top a:nth-child(3) {
+            background-color: #e11476;
+        }
+#nav-bottom{
+    width:1000px;
+}
+#nav-bottom ul{
+    margin-left:278px;
+}
+#nav-bottom ul li{
+    display:inline;
+    list-style:none;
+}
+    #nav-bottom ul li a {
+        text-decoration: none;
+        color: #0b1612;
+        font-size:15px;
+        padding-left:33px;
+        padding-top:25px;
+        padding-bottom:33px;
+        display:inline-block;
+    }
+#banner {
+    
+    width: 100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 975px;
+    margin: 0 auto;
+    margin-top: -150px;
+    padding-top:129px;
+}
+#banner-text{
+    width:1257px;
+   margin:0  auto;
+
+}
+#banner-text a:nth-child(1){
+    width:370px;
+    text-align:center;
+    text-decoration:none;
+    color:black;
+    float:right;
+    margin-left:255px;
+}
+#banner-text h3{
+    font-size:50px;
+    padding-top:100px;
+    text-align:center;
+}
+    #banner-text a {
+        width: 370px;
+        height: 72px;
+        line-height: 72px;
+        text-align: center;
+        color: #ffffff;
+        font-size: 25px;
+        text-decoration: none;
+        box-sizing: border-box;
+        display: inline-block;
+        background-color: #fe7701;
+        border-radius: 3px;
+        margin-left:19px;
+        margin-top:52px;
+    }
+#banner-text a:nth-child(2){
+    margin-left:250px;
+}
+#whywhoSe{
+    width:100%;
+    margin: 0 auto;
+    
+}
+
+.whywho {
+    width: 1257px;
+    margin: 0 auto;
+}
+.why{
+    width:50%;
+    float:left;
+    font-family:'Times New Roman';
+    font-size:15px;
+}
+.who {
+    width: 50%;
+    float: left;
+    text-align:justify;
+}
+
